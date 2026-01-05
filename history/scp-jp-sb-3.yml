@@ -1,7 +1,7 @@
 url: http://scp-jp-sandbox3.wikidot.com/
-status: up
-code: 200
-responseTime: 239
-lastUpdated: 2026-01-05T12:52:13.302Z
+status: down
+code: 500
+responseTime: 3354
+lastUpdated: 2026-01-05T13:49:45.026Z
 startTime: 2022-09-01T13:13:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
