@@ -4,23 +4,23 @@
     "url": "https://www.wikidot.com/",
     "icon": "https://www.wikidot.com/local--favicon/favicon.gif",
     "slug": "wikidot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.88%",
+    "uptimeDay": "93.88%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.86%",
     "time": 321,
-    "timeDay": 308,
-    "timeWeek": 259,
-    "timeMonth": 229,
+    "timeDay": 316,
+    "timeWeek": 262,
+    "timeMonth": 230,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2026-02-15": 343,
       "2026-02-22": 133,
       "2026-05-21": 103,
       "2026-06-06": 57,
-      "2026-06-30": 20
+      "2026-06-30": 88
     }
   },
   {
@@ -28,16 +28,16 @@
     "url": "http://scp-jp.wikidot.com/",
     "icon": "https://scp-jp.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-main",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.92%",
-    "time": 317,
-    "timeDay": 239,
-    "timeWeek": 224,
-    "timeMonth": 201,
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.91%",
+    "time": 318,
+    "timeDay": 252,
+    "timeWeek": 227,
+    "timeMonth": 202,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-09-10": 16,
@@ -48,7 +48,7 @@
       "2026-03-16": 57,
       "2026-04-04": 52,
       "2026-06-06": 52,
-      "2026-06-30": 16
+      "2026-06-30": 83
     }
   },
   {
@@ -56,16 +56,16 @@
     "url": "http://scp-jp-sandbox3.wikidot.com/",
     "icon": "https://scp-jp-sandbox3.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-sb-3",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.92%",
     "time": 305,
-    "timeDay": 199,
-    "timeWeek": 203,
-    "timeMonth": 190,
+    "timeDay": 224,
+    "timeWeek": 207,
+    "timeMonth": 191,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2025-08-21": 60,
@@ -76,7 +76,7 @@
       "2026-04-04": 52,
       "2026-04-18": 31,
       "2026-06-06": 48,
-      "2026-06-30": 11
+      "2026-06-30": 78
     }
   },
   {
@@ -84,16 +84,16 @@
     "url": "http://scp-jp-storage.wikidot.com/",
     "icon": "https://scp-jp-storage.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-fs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "94.91%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.90%",
     "time": 328,
-    "timeDay": 243,
-    "timeWeek": 209,
-    "timeMonth": 186,
+    "timeDay": 247,
+    "timeWeek": 211,
+    "timeMonth": 187,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2025-08-15": 27,
@@ -104,7 +104,7 @@
       "2026-03-06": 36,
       "2026-04-18": 43,
       "2026-06-06": 43,
-      "2026-06-30": 6
+      "2026-06-30": 73
     }
   },
   {
@@ -112,15 +112,15 @@
     "url": "http://05command-ja.wikidot.com/",
     "icon": "https://05command-ja.wikidot.com/local--favicon/favicon.gif",
     "slug": "scp-jp-05",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.89%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.88%",
     "time": 549,
-    "timeDay": 348,
-    "timeWeek": 284,
+    "timeDay": 349,
+    "timeWeek": 287,
     "timeMonth": 273,
     "timeYear": 442,
     "dailyMinutesDown": {
@@ -138,7 +138,7 @@
       "2026-03-31": 58,
       "2026-04-04": 52,
       "2026-06-06": 38,
-      "2026-06-30": 1
+      "2026-06-30": 69
     }
   },
   {
@@ -153,9 +153,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.89%",
     "time": 242,
-    "timeDay": 192,
-    "timeWeek": 160,
-    "timeMonth": 141,
+    "timeDay": 217,
+    "timeWeek": 165,
+    "timeMonth": 142,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2025-08-15": 28,
